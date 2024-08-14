@@ -1,5 +1,6 @@
 # Programming Fundamentals Final Project - Pacman
-## Programming Language Applied: C++
+
+Programming Language Applied: C++
 
 The game includes 3 progressively challenging levels, each maze with a different color theme, divided into 4 Modules:
 
